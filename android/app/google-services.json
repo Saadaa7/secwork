@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824683055227",
+    "project_id": "secwork-e25fb",
+    "storage_bucket": "secwork-e25fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824683055227:android:921db83eb547da4a84bade",
+        "android_client_info": {
+          "package_name": "com.example.freelance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824683055227-1utn57bqebmmabcp9n2n3pam6f8eol08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVPoYGYtRiwhfjPJGZQF7VICR8v9t0dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824683055227-1utn57bqebmmabcp9n2n3pam6f8eol08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
